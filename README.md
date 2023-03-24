@@ -38,7 +38,3 @@ python3 azure_subnet_ip_finder.py
 2. Sigue las instrucciones en pantalla para seleccionar la suscripción, VNet y subnet de Azure de la cual deseas obtener las primeras cinco direcciones IP disponibles.
 
 3. El script mostrará las primeras cinco direcciones IP disponibles y te permitirá elegir otra suscripción, VNet o subnet, o salir del programa.
-
-## Nota
-
-Este script utiliza la CLI de Azure y requiere que hayas iniciado sesión en tu cuenta de Azure. Si no has iniciado sesión, el script te pedirá que lo hagas al principio.
